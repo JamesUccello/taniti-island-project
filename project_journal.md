@@ -217,4 +217,4 @@ images loading
 layout looks clean
 site is live
 
-Feels good to be done with this one. Now lets just see if it passes or not lol
+Feels good to be done with this one. Now lets just see if it passes or not lolol
